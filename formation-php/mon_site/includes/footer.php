@@ -1,0 +1,1 @@
+<p class="footer">© 2024 Mon Site. Tous droits réservés.</p>
