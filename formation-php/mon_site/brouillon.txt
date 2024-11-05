@@ -1,0 +1,4 @@
+//balises a retirées du header
+    <a class="<?php if ($page === 'accueil') echo 'active'?>" href="/" >Accueil</a>     
+    <a class="<?php if ($page === 'about') echo 'active'?>" href="/?page=about">A propos</a>     
+    <a class="<?php if ($page === 'contact') echo 'active'?>" href="/?page=contact">Contact</a>
